@@ -1,5 +1,4 @@
 Hi! I'm Sandy 👋  
-Informatics Engineering student with a passion for building scalable applications and exploring cybersecurity.
 
 ---
 
