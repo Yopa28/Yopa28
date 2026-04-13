@@ -3,7 +3,7 @@ Hi! I'm Sandy 👋
 ---
 
 ## 🚀 About Me
-- 🎓 Informatics Student at Institut Teknologi Telkom Purwokerto
+- 🎓 Fresh Graduate Informatics Engineering
 - 💻 Focus on Fullstack & Mobile Development
 - 🔐 Certified Junior Cyber Security (BNSP)
 - ⚡ Interested in Backend Architecture & API Development
