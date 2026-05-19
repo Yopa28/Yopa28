@@ -13,7 +13,7 @@ Hi! I'm Sandy 👋
 ## 🛠️ Tech Stack
 - **Mobile:** Flutter, Dart  
 - **Frontend:** Vue.js, JavaScript  
-- **Backend:** Node.js, Laravel, PHP  
+- **Backend:** Node.js, Laravel, PHP, GO
 - **Database:** MySQL, Firebase  
 - **Tools:** Git, GitHub, Figma  
 
