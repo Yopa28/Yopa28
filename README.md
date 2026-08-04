@@ -11,7 +11,7 @@ Hi! I'm Sandy 👋
 ---
 
 ## 🛠️ Tech Stack
-- **Mobile:** Flutter, Dart  
+- **Mobile:** Flutter, Dart, Kotlin, React Native
 - **Frontend:** Vue.js, JavaScript  
 - **Backend:** Node.js, Laravel, PHP, GO
 - **Database:** MySQL, Firebase  
