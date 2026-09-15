@@ -103,8 +103,10 @@ Hi! I'm Sandy 👋
 
 ---
 
-## 🤝 Let's Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/sandyyopa/
-- 📧 Email: sandyboangmanalu@gmail.com
-
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sandy yopa boangmanalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandy yopa boangmanalu" height="30" width="40" /></a>
+<a href="https://fb.com/sandy yopa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandy yopa" height="30" width="40" /></a>
+<a href="https://instagram.com/sandyyopa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandyyopa" height="30" width="40" /></a>
+<a href="https://discord.gg/apoyy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="apoyy_" height="30" width="40" /></a>
+</p>
